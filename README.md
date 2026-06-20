@@ -1,13 +1,41 @@
-Union Budget of India : Financial Analysis Dashboard (FY 2013-14 to BE 2025-26)
+Consolidated Fund of India: Budget Analysis Dashboard | 2013-14 to BE 2025-26
 
-This project is an interactive Excel dashboard built on 13 years of India's Union Budget data, covering revenue and capital receipts and expenditure, fiscal deficit and surplus trends, tax revenue composition, defence spending, public debt, and non-tax revenue.
+<img width="1192" height="792" alt="image" src="https://github.com/user-attachments/assets/ba6b0a4c-e65b-439a-9bd0-8a4c1bad3282" />
 
-The goal was to take raw budget data from the Consolidated Fund of India and turn it into a usable dashboard that can answer questions such as how revenue and expenditure have grown year over year, why the revenue deficit persists, how the tax mix has shifted since GST was introduced, how defence spending is allocated across the Army, Navy, Air Force and R&D, and how public debt has evolved over time.
+### Overview
 
-The workbook is organized into a main Dashboard sheet, a few summary and analytics sheets, and a set of raw data sheets covering revenue receipts, revenue disbursements, capital receipts and capital disbursements, which feed into pivot tables and charts. The dashboard itself was built using pivot tables, pivot charts and slicers to allow filtering by year and category.
+An interactive Excel dashboard built using 13 years of India's Union Budget data to analyze revenue and capital receipts and expenditure, fiscal deficit trends, tax revenue composition, defence spending, public debt, and non-tax revenue.
 
-One of the clearer patterns in the data is that revenue expenditure has consistently outpaced revenue receipts every year from FY14 through BE 2025-26, keeping the country in a persistent revenue deficit. FY 2020-21 stands out as well, showing a sharp decline in revenue growth alongside the steepest jump in revenue deficit, which lines up with the pandemic's impact on government finances. Capital receipts and expenditure have grown roughly eightfold over the period, and the tax composition data shows a visible structural shift after GST was rolled out in FY17-18, with CGST and IGST appearing as new categories in place of older indirect taxes.
+### Objective
 
-The data was compiled from publicly available Union Budget documents, covering actuals from 2013-14 to 2023-24, revised estimates for 2024-25, and budget estimates for 2025-26. To use the file, open it in Excel 2016 or later for full pivot chart and slicer support, and start from the Dashboard sheet, using the slicers to filter the linked charts by year or category.
+To transform raw budget data from the Consolidated Fund of India into an interactive dashboard that enables users to explore government finances, spending patterns, revenue trends, and key fiscal indicators over time.
 
-Author: Riddhi. Part of my data analyst portfolio, built to practice Excel-based financial data analysis and dashboarding.
+### Tools Used
+
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Data Visualization
+
+### Key KPIs
+
+- Revenue Receipts & Expenditure
+- Capital Receipts & Expenditure
+- Revenue Deficit
+- Fiscal Deficit/Surplus
+- Tax Revenue Composition
+- Defence Expenditure
+- Public Debt
+
+### Key Insights
+
+- Revenue expenditure exceeded revenue receipts throughout FY14–BE 2025-26, resulting in a persistent revenue deficit.
+- FY 2020-21 recorded the sharpest increase in the revenue deficit due to the pandemic's impact on government finances.
+- Capital receipts and expenditure grew significantly over the analysis period.
+- Tax revenue composition shifted following the introduction of GST, with CGST and IGST emerging as major revenue sources.
+
+### Data Source
+
+Union Budget documents (Actuals: FY 2013-14 to FY 2023-24, RE: FY 2024-25, BE: FY 2025-26).
+
